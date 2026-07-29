@@ -1,3 +1,4 @@
+DROP DATABASE ShopDB;
 -- Create database and tables
 
 CREATE DATABASE ShopDB;
