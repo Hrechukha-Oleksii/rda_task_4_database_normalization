@@ -1,4 +1,6 @@
+-- Drop database ShopDB if database does exist 
 DROP DATABASE ShopDB;
+
 -- Create database and tables
 
 CREATE DATABASE ShopDB;
